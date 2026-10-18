@@ -17,4 +17,5 @@ The prototype processes real `.wav` files via `librosa` for the voice modality a
 ## Datasets & Limitations
 - **Voice Data:** Figshare (Prior et al.). 
 - **Tremor Data:** ALAMEDA (Zenodo).
-- *Note: This is a cross-cohort late-fusion prototype (the datasets do not share patients). True paired fusion requires custom IoT hardware (ESP32 + MPU6050), currently in development.*
+- *Note: This is a cross-cohort late-fusion prototype (the datasets do not share patients). True paired fusion requires custom IoT hardware (ESP32 + MPU6050), currently in development.
+- Due to GitHub file size limits, the trained .pkl models are hosted on Google Drive. [[Insert your Drive link here]](https://drive.google.com/drive/folders/16OX2ihLiXjf9lppAlN5VqyyIMS2FC-B0?usp=drive_link)
