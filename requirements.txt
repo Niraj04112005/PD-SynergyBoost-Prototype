@@ -1,0 +1,11 @@
+streamlit
+librosa
+praat-parselmouth
+nolds
+scikit-learn
+lightgbm
+xgboost
+pandas
+numpy
+matplotlib
+scipy
